@@ -1,0 +1,2 @@
+# Youtube-Membership-Authorization-Bot
+Youtubeのメンバーシップを購入している人限定でロールを獲得できるbot
