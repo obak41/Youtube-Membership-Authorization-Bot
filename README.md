@@ -2,6 +2,9 @@
 ### Youtubeのメンバーシップを認証して専用ロールを付与するbotです。
 
 - ### 準備
+　以下のコマンドを実行して必要なライブラリをインストールしてください。
+> pip install -r requirements.txt
+
 　.envに以下の情報を書き込んでください。
 > Discordのbotトークン、Gemini APIキー、MongoDBのURI、
 
