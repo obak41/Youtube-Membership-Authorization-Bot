@@ -20,7 +20,7 @@ TARGET_CHANNEL = "CHANNEL NAME" # Youtubeのチャンネル名
 GUILD_ID = 1000000000 # DiscordのサーバーID
 # ---ここから変更しない！！！
 MONGO_URL = os.getenv("MONGO_URL")
-DB_NAME = "hololive_membership"
+DB_NAME = "youtube_membership"
 COLLECTION_NAME = "verified_members"
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
